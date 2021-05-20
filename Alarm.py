@@ -13,12 +13,12 @@ while True:
     hournow = timenow.hour
     minutenow = timenow.minute
 
-    def bitir(): #Bitirme fonksiyonu (daha çalışmıyor)
-        g_bitir = input("Bitirmek İçin G ye Basın:")
+    #def bitir(): #Bitirme fonksiyonu (daha çalışmıyor)
+    #    g_bitir = input("Bitirmek İçin G ye Basın:")
         
-        if  g_bitir == "G":
+    #    if  g_bitir == "G":
 
-            quit()
+    #        quit()
 
 
 
