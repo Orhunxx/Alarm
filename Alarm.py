@@ -26,7 +26,7 @@ while True:
         print("Kalkma Vakti")
         print("Şuanda Saat : ", hournow , ":", minutenow)
         
-        play("C:\\Users\\technopc\\Desktop\\YAZILIM\\Python\\Projeler\\Alarm\\songul3.mp3")
+        play("your song url")
 
 
         
